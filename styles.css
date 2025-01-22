@@ -66,21 +66,22 @@ body {
   justify-content: center;
 }
 
-.banner h1 {
+h1 {
   font-size: 3rem;
   font-weight: 600;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* Main Content */
 main {
   padding: 5%;
+  padding-block: 2%;
 }
 
-main h2 {
+h2 {
   margin-bottom: 10px;
   font-size: 2rem;
-  color: #333;
+  font-weight: 300;
+  color: black;
 }
 
 main p {
